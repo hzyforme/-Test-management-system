@@ -1,1 +1,1 @@
-考籍管理系统设置，java ssm
+Test registration management system, development，java ssm
